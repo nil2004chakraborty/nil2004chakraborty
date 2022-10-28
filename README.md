@@ -2,6 +2,7 @@
 
 
 Hello, This is Nilakshi Chakraborty!!
+I am an amateur Native Android Developer in kotlin language currently pursuing Btech in CSE'25.
 
 
 
